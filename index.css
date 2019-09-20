@@ -38,6 +38,12 @@ body {
   width: auto;
 }
 
+#image {
+  justify-self: center;
+  height: 12em;
+  width: auto;
+}
+
 button {
   position: relative;
   background-color: #e04b52;
